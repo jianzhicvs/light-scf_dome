@@ -7,7 +7,7 @@
 Node.js
 
 ```
-|-- Nodejs6.10_helloworld    文件夹名称|也作为模版名称，最好和 config.
+|-- Nodejs6.10_helloworld    文件夹名称| 语言_实例名
 |   |-- config.json          模版配置文件，用于控制台模版详情展示，必填。
 |   |-- server.json      函数配置文件，用于控制台解析模版函数配置，必填。
 |   |-- README.md            模版使用说明，建议填写。
@@ -19,7 +19,7 @@ Node.js
 Python
 
 ```
-|-- Python2.7_helloworld     文件夹名称，也作为模版名称，最好和 config.json 中 serverless-cloud-function-application::English::name 一致。
+|-- Python2.7_helloworld     文件夹名称| 语言_实例名
 |   |-- config.json          模版配置文件，用于控制台模版详情展示，必填。
 |   |-- server.json       函数配置文件，用于控制台解析模版函数配置，必填。
 |   |-- README.md            模版使用说明，建议填写。
@@ -29,7 +29,7 @@ Python
 
 Php
 ```
-|-- Php7.2_helloworld        文件夹名称：语言_实例名
+|-- Php7.2_helloworld        文件夹名称| 语言_实例名
 |   |-- config.json          模版配置文件，用于控制台模版详情展示，必填。
 |   |-- server.json       函数配置文件，用于控制台解析模版函数配置，必填。
 |   |-- README.md            模版使用说明。
